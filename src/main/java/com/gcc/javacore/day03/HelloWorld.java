@@ -1,4 +1,4 @@
-package com.gcc.javacoreday01;
+package com.gcc.javacore.day03;
 
 public class HelloWorld {
     public static void main(String[] args){
@@ -8,6 +8,5 @@ public class HelloWorld {
         System.out.println("你好 java");
         System.out.println("你好 java");
         System.out.println("你好 java");
-
     }
 }
