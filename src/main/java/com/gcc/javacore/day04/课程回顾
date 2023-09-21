@@ -1,0 +1,27 @@
+day01
+Java 是一种计算机语言
+Java 是一个开源的平台 SE(基础) ME(移动) EE(Web)
+day02
+下载安装JDK
+java -version 这个命令判断JDK是否安装成功
+JAVA_HOME环境变量
+JDK>JRE>JVM
+
+javac 编译源文件 *.java
+java 运行字节码文件 .class
+
+day03
+IDE 集成开发环境
+
+Idea2020.2
+maven 打包构建，第三方jar管理的一个工具  (idea自带)
+git   代码和版本的一个管理工具    (自行安装)
+Java 中的三种注释
+// 单行注释
+/*
+多行注释
+*/
+
+/**
+文档注释
+*/
