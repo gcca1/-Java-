@@ -22,7 +22,7 @@ public class 数组 {
         arrChar[4]=1;
         //一般可以用循环
         for (int i=0;i<5;i++){
-            arrChar[i]=1;
+            arrChar[i]=2;
         }
         //数组越界异常：java.lang.ArrayIndexOutOfBoundsException: 5
         //String类型的数据String[]
