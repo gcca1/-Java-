@@ -18,7 +18,7 @@ public class 数组排序 {
         //打擂台，先假定最大值
         int max=0;
         //数组当中的每一个值，都取一遍。求最大
-        for (int i=0;i<5;i++){
+        for (int i=0;i<6;i++){
             if (arrScore[i]>max){
                 max = arrScore[i];
             }
