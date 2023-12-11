@@ -1,4 +1,4 @@
-package com.gcc.javacore.day16多维数组和杨辉三角;
+package com.gcc.javacore.day16第三章多维数组和杨辉三角;
 
 public class 二维数组的赋值和遍历 {
     public static void main(String[] args) {

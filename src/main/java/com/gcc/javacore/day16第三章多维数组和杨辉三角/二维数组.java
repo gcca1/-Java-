@@ -1,4 +1,4 @@
-package com.gcc.javacore.day16多维数组和杨辉三角;
+package com.gcc.javacore.day16第三章多维数组和杨辉三角;
 
 import java.util.Scanner;
 
