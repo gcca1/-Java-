@@ -1,5 +1,7 @@
 package com.gcc.javacore.day18第四章对象和对象的引用Date和LocalDateTime;
 
+import com.gcc.javacore.day19第四章getset方法和构造方法.Person;
+
 import java.time.LocalDateTime;
 import java.util.Date;
 
@@ -31,6 +33,9 @@ public class MainTest {
         localDateTime = localDateTime.plusDays(11);
         System.out.println(localDateTime);
         System.out.println(employee.getDateTime());
+
+        Person person = new Person();
+        person.name ="张三";
 
     }
 }
