@@ -1,5 +1,7 @@
 package com.gcc.javacore.day19第四章getset方法和构造方法;
 
+import com.gcc.javacore.day20第四章访问权限和static单例模式.Employee;
+
 public class Person {
     //访问修饰符   //数据类型   //属性名==变量名
     //权限很大，任何类都可以访问，修改
@@ -43,5 +45,11 @@ public class Person {
     //隐式参数 实际上就是this
     public void setName (String name){
        this.name= name;
+    }
+
+    public static void main(String[] args) {
+        Employee employee = new Employee();
+
+
     }
 }
