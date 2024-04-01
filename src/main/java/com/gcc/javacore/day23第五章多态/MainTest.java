@@ -30,6 +30,7 @@ public class MainTest {
         System.out.println("这是我们领养的宠物");
        pet2.print();
        master.play(pet2);
+
     }
 
 }
