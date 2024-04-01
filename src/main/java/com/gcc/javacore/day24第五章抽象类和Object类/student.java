@@ -6,7 +6,7 @@ public class student extends Person{
 
     @Override
     public void getDescription() {
-        super.getDescription();
+
         System.out.println("学生的姓名:"+super.getName());
         System.out.println("学生的分数:"+this.score);
     }
