@@ -10,7 +10,7 @@ public class Employee extends Person{
 
     @Override
     public void getDescription() {
-        super.getDescription();
+
         System.out.println("员工姓名:"+super.getName());
         System.out.println("薪水:"+this.salary);
     }
